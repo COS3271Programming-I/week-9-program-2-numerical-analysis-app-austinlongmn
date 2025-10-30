@@ -9,7 +9,7 @@ import java.util.Scanner;
 class Main {
 
   public static void main(String[] args) {
-    final String path = "data/text.txt";
+    final String path = "data/data.txt";
 
     int qtyNumbers = 0;
     double totalValue = 0.0d;
